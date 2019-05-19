@@ -1,0 +1,36 @@
+/* add style here */
+
+#container{
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 3px 5px  5px #CCC;
+
+}
+
+img{
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+}
+
+#card{
+    border:1px solid #CCC;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 5px auto; 
+    width:300px;
+}
+.animal-info{
+    font-style: italic;
+}
+ul{
+    padding: 0;
+}
+li span{
+    font-weight: bold;
+}
+li{
+    list-style-type: none; 
+}
